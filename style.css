@@ -1,0 +1,22 @@
+html {
+    background-color: #E1CDB4;
+}
+
+body {
+    margin: 50px;
+}
+#Nitansh {
+    font-family: "Apple Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
+    color: #1C341F;
+    font-size: 65px; 
+    padding-left: 20px;
+    text-decoration: none;
+    transition: all 400ms;
+}
+#Nitansh:hover {
+    font-size: 70px;
+    font-size-adjust: 20px;
+}
