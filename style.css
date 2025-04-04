@@ -4,7 +4,7 @@ html {
 
 * {
     text-decoration: none;
-    font-family: "Apple Garamond", 'Noto Serif Display', 'URW Palladio L', P052, Sylfaen, serserif;
+    font-family: 'Apple Garamond', sans-serif;
 
 }
 body {
@@ -59,14 +59,15 @@ li {
     list-style: none;
     display: inline;
     position: relative;
-    right: 50px;
+    right: 25px;
 }
 
 li a {
     display: inline-block;
     font-size: 30px;
     font-weight: 590;
-    margin: 25px;
+    margin-left: 25px;
+    margin-right:25px;
     color: #7D0A0A;
     transition: transform 300ms ease, color 0.3s ease;
 }
